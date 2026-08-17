@@ -23,4 +23,4 @@ gastoPedagios = qtPedagios * valorPedagio
 print(f"Custo total de pedágios: {gastoPedagios}")
 
 valorTotalViagem = custoCombustivel + gastoPedagios
-print(f"Custo total da viagem:  {valorTotalViagem}")
+print(f"Custo total da viagem: {valorTotalViagem}")
